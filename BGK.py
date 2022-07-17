@@ -1,11 +1,10 @@
 import random
 from secrets import choice
-from turtle import color, delay
 
 print("Selamat Datang di Game AFRAAAA")
 
 
-color
+
 while True: 
     choices = ["batu","gunting","kertas"]
 
