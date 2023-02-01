@@ -23,11 +23,11 @@ while True:
         if computer == "kertas":
             print("computer:",computer)
             print("player:",player)
-            print("Kalah CUPU !!!")
+            print("Player Lose !")
         if computer == "gunting":
             print("computer:",computer)
             print("player",player)
-            print("Anjaayyy Menang COkkk")
+            print("Player Win ! ")
 
     elif player == "gunting":
         if computer == "batu":
